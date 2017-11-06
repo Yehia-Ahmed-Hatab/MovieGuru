@@ -1,7 +1,7 @@
 {
 	"comment": "",
 	"ignore": "test",
-	"package":[
+	"package": [
 		{
 			"checksumSHA1": "66FySld60ai7A8X83tqwih+Iguc=",
 			"path": "github.com/heppu/simple-cors",
@@ -21,17 +21,17 @@
 			"revisionTime": "2017-03-28T20:01:54Z"
 		},
 		{
-			"checksumSHA1": "3+Ws5eltVsA1myFmpw8riUjbWUY=",
+			"checksumSHA1": "klQ0wW7q4yvBuZ7Q36LTTRfwzFk=",
 			"path": "github.com/ramin0/chatbot",
 			"revision": "c9bb79785b0225cdb629db50037d11361d8c0bed",
 			"revisionTime": "2017-09-22T23:21:59Z"
 		},
 		{
-			"checksumSHA1": "DfYztlVl5nZyMqx2ZjTL/Ag9eH4=",
+			"checksumSHA1": "aUkw4/r9GIxL1tMAeRmBVbAclnY=",
 			"path": "github.com/ryanbradynd05/go-tmdb",
 			"revision": "e9754d5d76578e10a018686990966890b9a68f3f",
 			"revisionTime": "2017-10-11T23:23:23Z"
 		}
 	],
-	"rootPath": "/home/cabox/workspace/src"
+	"rootPath": "github.com/Yehia-Ahmed-Hatab/MovieGuru"
 }
