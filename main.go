@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"log"
 	"os"
-	"github.com/ramin0/chatbot"
-	"github.com/ryanbradynd05/go-tmdb"
+	"github.com/Yehia-Ahmed-Hatab/MovieGuru/chatbot"
+	"github.com/Yehia-Ahmed-Hatab/MovieGuru/go-tmdb"
 )
 import _ "github.com/joho/godotenv/autoload"
   
